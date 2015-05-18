@@ -1,0 +1,127 @@
+10
+
+dir
+5
+https://stefan@svn17.devzing.com/QixoticSoftwareDesign/DeliveryCrowd/trunk/private/_packages/meteor-autoform/inputTypes
+https://stefan@svn17.devzing.com/QixoticSoftwareDesign/DeliveryCrowd
+
+
+
+2015-03-19T12:01:03.932390Z
+5
+stefan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a5753aa2-34ae-974f-9f08-fb327e05fcea
+
+select-checkbox-inline
+dir
+
+select
+dir
+
+image
+dir
+
+text
+dir
+
+datetime-local
+dir
+
+month
+dir
+
+email
+dir
+
+number
+dir
+
+hidden
+dir
+
+range
+dir
+
+boolean-select
+dir
+
+time
+dir
+
+radio
+dir
+
+url
+dir
+
+boolean-checkbox
+dir
+
+submit
+dir
+
+search
+dir
+
+select-multiple
+dir
+
+select-radio
+dir
+
+date
+dir
+
+textarea
+dir
+
+color
+dir
+
+file
+dir
+
+reset
+dir
+
+tel
+dir
+
+select-radio-inline
+dir
+
+week
+dir
+
+datetime
+dir
+
+boolean-radios
+dir
+
+password
+dir
+
+select-checkbox
+dir
+
+contenteditable
+dir
+
+button
+dir
+

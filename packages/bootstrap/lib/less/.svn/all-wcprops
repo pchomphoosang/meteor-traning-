@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less
+END
+labels.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/labels.import.less
+END
+component-animations.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/component-animations.import.less
+END
+theme.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/theme.import.less
+END
+bootswatch.less
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/bootswatch.less
+END
+list-group.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/list-group.import.less
+END
+close.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/close.import.less
+END
+responsive-utilities.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/responsive-utilities.import.less
+END
+thumbnails.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/thumbnails.import.less
+END
+navs.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/navs.import.less
+END
+mixins.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/mixins.import.less
+END
+responsive-embed.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/responsive-embed.import.less
+END
+code.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/code.import.less
+END
+utilities.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/utilities.import.less
+END
+popovers.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/popovers.import.less
+END
+carousel.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/carousel.import.less
+END
+media.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/media.import.less
+END
+dropdowns.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/dropdowns.import.less
+END
+scaffolding.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/scaffolding.import.less
+END
+type.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/type.import.less
+END
+panels.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/panels.import.less
+END
+badges.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/badges.import.less
+END
+wells.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/wells.import.less
+END
+button-groups.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/button-groups.import.less
+END
+alerts.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/alerts.import.less
+END
+tooltip.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/tooltip.import.less
+END
+pager.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/pager.import.less
+END
+normalize.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/normalize.import.less
+END
+navbar.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/navbar.import.less
+END
+tables.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/tables.import.less
+END
+input-groups.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/input-groups.import.less
+END
+bootstrap.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/bootstrap.import.less
+END
+modals.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/modals.import.less
+END
+jumbotron.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/jumbotron.import.less
+END
+glyphicons.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/glyphicons.import.less
+END
+grid.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/grid.import.less
+END
+forms.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/forms.import.less
+END
+progress-bars.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/progress-bars.import.less
+END
+pagination.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/pagination.import.less
+END
+breadcrumbs.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/breadcrumbs.import.less
+END
+print.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/print.import.less
+END
+buttons.import.less
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/bootstrap/lib/less/buttons.import.less
+END

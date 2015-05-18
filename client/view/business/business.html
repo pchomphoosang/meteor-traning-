@@ -1,0 +1,74 @@
+<template name="business">
+	<div class="container">
+		<div class="page-header">
+			<h1>
+				Business Dashboard
+			</h1>
+		</div>
+		{{> alert}}
+		<div class="insert_form">
+			{{#autoForm collection="Orders" id="insertOrderForm" type="insert"}}
+				<fieldset>
+					<!-- <legend>Create Order</legend> -->
+					<div class="row">
+						
+						<div class='col-xs-4'>
+							{{> afQuickField name='consumer_phone'}}
+						</div>
+
+						<div class="form-group{{#if afFieldIsInvalid name='cost'}} has-error{{/if}} col-xs-4">
+							<label class="control-label">Order Cost</label>
+							<div class="input-group">
+								<span class="input-group-addon">$</span>
+								{{> afFieldInput name='cost' class="field_cost" type="text"}}
+							</div>
+							{{#if afFieldIsInvalid name='cost'}}
+							<span class="help-block">{{afFieldMessage name='cost'}}</span>
+							{{/if}}
+						</div>
+						
+						<div class="form-group col-xs-2">
+							<label class="control-label">Delivery Fee</label>
+							<p class="form-control-static">$ {{deliveryFee}}</p>
+							{{> afFieldInput name='fee' type="hidden" value=deliveryFee}}
+						</div>
+						
+						<div class="form-group col-xs-2">
+							<label class="control-label">Total</label>
+							<p class="form-control-static">$ {{total}}</p>
+							{{> afFieldInput name='total' type="hidden" value=total}}
+						</div>
+					</div>
+
+					<div class="row">
+						<div class='col-xs-3'>
+							{{> afQuickField name='consumer_email'}}
+						</div>
+						<div class='col-xs-3'>
+							{{> afQuickField name='is_smartphone'}}
+						</div>
+						<div class='col-xs-3'>
+							{{> afQuickField name='is_pickup'}}
+						</div>
+						<div class='col-xs-3'>
+							{{> afQuickField name='payment_type'}}
+						</div>
+					</div>
+
+					<div class="form-group">
+					    <button type="submit" class="btn btn-primary">Create new Order</button>
+					    <button type="reset" class="btn btn-default">Reset</button>
+					</div>
+				</fieldset>
+			{{/autoForm}}
+		</div>
+
+		{{> tabular table=TabularTables.BusinessOrders class="table table-striped table-bordered table-condensed"}}
+	</div>
+</template>
+
+<template name="business_edit_button">
+	{{#afModal class="btn btn-sm" collection="Orders" fields="consumer_phone,cost,fee,total,consumer_email,is_smartphone,is_pickup,payment_type,consumer_address" operation="update" prompt="" title="Edit Order" buttonContent="Save Order"  doc=_id}}
+		<span class="glyphicon glyphicon-pencil"></span>
+	{{/afModal}}
+</template>

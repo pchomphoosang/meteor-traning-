@@ -1,0 +1,36 @@
+<template name="driver_invite">
+	<div class="container">
+		<div class="page-header">
+			<h1>
+				Welcome to DeliverCrowd
+			</h1>
+			{{#if invite.active}}
+			<p>
+				DeliveryCrowd enables businesses, delivery drivers and consumers have a seamless delivery process with the help of technology.
+			</p>
+			<p><b>
+				Please enter the following details and complete your registration.
+			</b></p>
+			{{/if}}
+		</div>
+		{{> alert}}
+		{{#if invite.active}}
+		<div class="insert_form">
+			{{#autoForm id="driverSignUp" schema=Schemas.DriverSignup type="normal"}}
+				<fieldset>
+					<input type="hidden" name="invitation_id" value="{{invitation_id}}" data-schema-key="invitation_id">
+					{{> afQuickField name='firstname'}}
+					{{> afQuickField name='lastname'}}
+					{{> afQuickField name='email'}}
+					{{> afQuickField name='password'}}
+					{{> afQuickField name='confirmPassword'}}
+
+					<div class="form-group">
+					    <button type="submit" class="btn btn-primary">Sign Up</button>
+					</div>
+				</fieldset>
+			{{/autoForm}}
+		</div>
+		{{/if}}
+	</div>
+</template>

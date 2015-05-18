@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/accounts-entry/tests
+END
+client.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/accounts-entry/tests/client.html
+END
+client.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/accounts-entry/tests/client.coffee
+END
+route.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/accounts-entry/tests/route.coffee
+END
+server.coffee
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/accounts-entry/tests/server.coffee
+END

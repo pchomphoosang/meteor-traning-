@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form
+END
+versions.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/versions.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/.gitignore
+END
+.versions
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/.versions
+END
+package.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/package.js
+END
+contact-form-tests.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/contact-form-tests.js
+END
+contact-form.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/contact-form.js
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/4/trunk/packages/meteor-contact-form/README.md
+END

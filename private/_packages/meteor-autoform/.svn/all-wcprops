@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform
+END
+versions.json
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/versions.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/LICENSE
+END
+internal.api.md
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/internal.api.md
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/CHANGELOG.md
+END
+.versions
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/.versions
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/.travis.yml
+END
+autoform-inputs.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-inputs.js
+END
+autoform-hooks.js
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-hooks.js
+END
+.editorconfig
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/.editorconfig
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/README.md
+END
+autoform-common.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-common.js
+END
+autoform-validation.js
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-validation.js
+END
+autoform-formdata.js
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-formdata.js
+END
+.jshintrc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/.jshintrc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/.gitignore
+END
+autoform-arrays.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-arrays.js
+END
+package.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/package.js
+END
+autoform-helpers.js
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-helpers.js
+END
+autoform.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform.js
+END
+form-preserve.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/form-preserve.js
+END
+api.md
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/api.md
+END
+autoform-events.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-events.js
+END
+autoform-api.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/autoform-api.js
+END
+utility.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/QixoticSoftwareDesign/DeliveryCrowd/!svn/ver/5/trunk/private/_packages/meteor-autoform/utility.js
+END

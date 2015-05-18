@@ -1,0 +1,46 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+
+percolate:migrations
+aldeed:collection2
+dburles:collection-helpers
+iron:router
+multiply:iron-router-progress
+nimble:restivus
+
+less
+
+bootstrap
+#mrt:bootstrap-3
+pfafman:font-awesome-4
+
+accounts-password
+accounts-facebook
+accounts-google
+#accounts-twitter
+#accounts-ui
+ian:accounts-ui-bootstrap-3
+joshowens:accounts-entry
+
+aldeed:autoform
+yogiben:autoform-modals
+
+alanning:roles
+yogiben:admin  #loaded locally from /packages/admin
+
+
+#aldeed:template-extension
+#yogiben:alerts
+#yogiben:notifications
+
+#meteorhacks:kadira
+bredikhin:contact-form
+yogiben:alerts
+aldeed:tabular
+accolver:twilio-meteor
+momentjs:moment
